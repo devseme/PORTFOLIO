@@ -1,0 +1,56 @@
+.header{
+background-color:  #292A44;
+height: 500px;
+width: 100%;
+color: #ffff;
+
+}
+nav{ /*styling the nav row*/
+        font-size: 20px;
+        font-weight: 700px;
+        line-height: 1.5em;
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+        position: relative;
+        float: right;
+        margin-right: 70px;
+        padding: 15px;
+        margin-top: -300px;
+    }
+    .header h1{
+        margin-left: 45px;
+        font-style: italic;
+    }
+    .bio{
+        margin-left:250px ;
+        margin-top: -20px;
+    }
+.nav-row a{
+        color:#ffff;
+        text-decoration: none;
+    }
+#logo{
+        height:250px;
+        width:250px;
+        border-radius: 200px;
+    }
+#coder1{
+        height:250px;
+        width:500px;
+        float: right;
+        margin-top: -270px;
+        margin-right: 50px;
+    }
+    .talk{
+        color: white;
+        text-decoration: none;
+        background-color: #C4402A;
+        width: 60px;
+        height: auto;
+        color: white;
+        padding: 7px;
+        border-radius: 5px;
+    }
+
+    
