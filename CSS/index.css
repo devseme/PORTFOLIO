@@ -105,5 +105,24 @@ text-align: center;
     margin-top:-80px;
 
 }
+.hobbies{
+    height: 400px;
+    width: 100%;
+    background-color: #F8B75D;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    
+}
+.hobbies img{
+    border-radius: 200px;
+}
+#hobby{
+    font-weight: 700;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
 
     
