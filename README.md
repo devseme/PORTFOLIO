@@ -1,11 +1,12 @@
 # PORTFOLIO WEBSITE
-#### this is my second IP at Moringa school
+#### this is my IP1 for prep module at Moringa school
 #### By **Ochenge Ian**
 ## Description
-This is a homepage for a street-food website.It contains nicely layered 3 sections:The header with a title and brief description,the main with 3 sections:eat together,explore menu,hot deals,contact us.finally the footer as the ending 
+This is a homepage for my portfolio website.It contains nicely layered 5 sections:The header with a title and brief description,the main with 3 sections:work page,about me page,hobbies page.finally the footer as the ending 
 ## Setup/Installation Requirements
 * No set-up requirements.Run the index.html file on your browser
-* [Deloyedghpage](https://devseme.github.io/StreetFood-Website/)
+* [Design-page](https://www.figma.com/file/A815GxuPeFfDFEsMM1wbNu/devseme-portfolio?node-id=1%3A2)
+* [Deloyed-page](https://devseme.github.io/PORTFOLIO/#contact)
 ## Known Bugs
 No known bugs
 ## Technologies Used
