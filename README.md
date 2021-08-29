@@ -12,7 +12,7 @@ No known bugs
 ## Technologies Used
 HTML,CSS,TOOLS(figma)
 ## Support and contact details
-Username:@devseme.
+ian.ochenge@student.moringaschool.com
 ### License
 
 Copyright (c) {2021} **{devseme}**
