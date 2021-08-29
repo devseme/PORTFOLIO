@@ -108,9 +108,7 @@ nav{ /*styling the nav row*/
      margin-top: auto;
 text-align: center;
  }
- 
-
-.website{
+ .website{
     width: 24%;
     height:350px;
     background-color: white;
@@ -120,14 +118,15 @@ text-align: center;
 
 }
 .hobbies{
-    height: 420px;
+    height: 500px;
     width: 100%;
     background-color: #F8B75D;
     display:flex;
     flex-direction: row;
     justify-content: space-around;
-
-    
+}
+.hobbies h1{
+    text-align: center;
 }
 .hobbies img{
     border-radius: 200px;
