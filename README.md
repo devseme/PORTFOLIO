@@ -2,7 +2,7 @@
 #### This is my IP1 for prep module at Moringa school
 #### By **Ochenge Ian**
 ## Description
-This is a homepage for my portfolio website.It contains nicely layered 5 sections:The header with a title and brief description,the main with 3 sections:work page,about me page,hobbies page.finally the footer as the ending 
+This is a simple landing page for my portfolio website.It contains nicely layered 5 sections:The header with a title and brief description,the main with 3 sections:work page,about me page,hobbies page.finally the footer as the ending 
 ## Setup/Installation Requirements
 * No set-up requirements.Run the index.html file on your browser
 * [Design-page](https://www.figma.com/file/A815GxuPeFfDFEsMM1wbNu/devseme-portfolio?node-id=1%3A2)
