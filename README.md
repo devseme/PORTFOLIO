@@ -10,7 +10,7 @@ This is a simple landing page for my portfolio website.It contains nicely layere
 ## Known Bugs
 No known bugs
 ## Technologies Used
-HTML,CSS,
+HTML,CSS,TOOLS(figma)
 ## Support and contact details
 Username:@devseme.
 ### License
