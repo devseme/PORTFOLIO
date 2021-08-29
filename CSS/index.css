@@ -42,25 +42,38 @@ nav{ /*styling the nav row*/
         float: right;
         margin-top: -270px;
         margin-right: 50px;
+        border-radius: 200px;
     }
     .talk{
         color: white;
         text-decoration: none;
         background-color: #C4402A;
-        width: 100px;
+        width: 200px;
         height: 35px;
         padding: 7px;
         border-radius: 10px;
         border-style: none;
-        
+        margin-left: 500px;
+        margin-top: 350px;
     }
 .aboutme{
     background-color: #F8B75D;
     width: 100%;
-    height: 400px;
+    height: 350px;
+    align-items: center;
 }
-
-
+.aboutme h2{
+    text-align: center;
+    font-family: sans-serif; 
+    color:#030300;
+}
+.aboutme p{
+    text-align: center;
+    font-size: 17px;
+    width: 500px;
+    margin-left: 350px;
+    line-height: 1.5em;
+}
 .website{
     background-color:#292A44 ;
     width: 100%;
