@@ -1,5 +1,5 @@
 # PORTFOLIO WEBSITE
-#### this is my IP1 for prep module at Moringa school
+#### This is my IP1 for prep module at Moringa school
 #### By **Ochenge Ian**
 ## Description
 This is a homepage for my portfolio website.It contains nicely layered 5 sections:The header with a title and brief description,the main with 3 sections:work page,about me page,hobbies page.finally the footer as the ending 
