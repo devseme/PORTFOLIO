@@ -54,12 +54,12 @@ nav{ /*styling the nav row*/
         border-radius: 10px;
         border-style: none;
         margin-left: 500px;
-        margin-top: 350px;
+        margin-top: ;
     }
 .aboutme{
     background-color: #F8B75D;
     width: 100%;
-    height: 350px;
+    height: 380px;
     align-items: center;
 }
 .aboutme h2{
