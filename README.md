@@ -10,9 +10,9 @@ This is a simple landing page for my portfolio website.It contains nicely layere
 ## Known Bugs
 No known bugs
 ## Technologies Used
-HTML,CSS
+HTML,CSS,
 ## Support and contact details
-Username:devseme.
+Username:@devseme.
 ### License
 
 Copyright (c) {2021} **{devseme}**
