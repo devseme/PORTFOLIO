@@ -29,6 +29,7 @@ nav{ /*styling the nav row*/
 .nav-row a{
         color:#ffff;
         text-decoration: none;
+        cursor:pointer;
     }
 #logo{
         height:250px;
@@ -106,7 +107,7 @@ text-align: center;
 
 }
 .hobbies{
-    height: 400px;
+    height: 420px;
     width: 100%;
     background-color: #F8B75D;
     display:flex;
@@ -122,6 +123,39 @@ text-align: center;
     font-weight: 700;
     font-size: 17px;
     font-family: sans-serif;
+}
+.footer{
+    height: auto;
+    width: 100%;
+    background-color:#292A44  ;
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+    
+}
+.footer img{
+    height: 50px;
+    width:50px;
+
+}
+.footer h2{
+    text-align: center;
+    font-weight: 400;
+    font-family:'Open Sans'
+}
+.handles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height:2.0rem;
+    cursor:pointer;
+    list-style-type: none;
+}
+.copyright{
+    text-align: center;
+    font-size: small;
+    color:#F8B75D;
 }
 
 
